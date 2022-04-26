@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     var collectionView: UICollectionView!
     
+    // TODO: Add new sections here!
     lazy var sections: [Section] = [
         BasicGridSection()
     ]
